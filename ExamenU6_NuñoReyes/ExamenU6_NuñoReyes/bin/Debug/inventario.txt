@@ -1,0 +1,5 @@
+Nombre Producto: Cuaderno
+Descripción: Cuaderno de cuadrícula grande de 100 hojas
+Precio: $65
+Cantidad en Inventario: 70
+
